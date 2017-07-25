@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "drinks <- 99\n\nwhile (drinks <=  99 ) {\n  print(paste(drinks, \"of beer on the wall,\" ,drinks, \"bottles of beer you take one down, and you pass it around, now you got\" ,drinks-1, \"bottles of beer on the wall\"))\n  drinks = drinks - 1\n  if (drinks == 2) {\n    print(paste(\"2 bottles of beer on the wall, 2 bottles of beer you take one down, and you pass it around, now you got only one bottle of beer on the wall\"))\n    drinks = drinks -1\n    if (drinks == 1) {\n      print(paste(\"one bottle of beer on the wall, one bottle of beer, you take it around, and you pass it around, and now life sucks\"))\n      drinks = drinks -1 \n      if (drinks == 0)\n        print(\"now life sucks, call josue, and ask him to get you a bottle of beer\")\n      break }\n  }\n}",
+    "created" : 1501010063123.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3814975349",
+    "id" : "60C8E0FB",
+    "lastKnownWriteTime" : 1501010081,
+    "last_content_update" : 1501010081488,
+    "path" : "~/GitHub/99bottles/bottlestest/testbots.R",
+    "project_path" : "testbots.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
