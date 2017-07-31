@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "\nmagic8 = function(x){\n  {randoans = c(\"yes\",\n               \"no\",\n               \"yesno\",\n               \"noyes\",\n               \"meow meow\")}\n  print(sample(randoans,1))\n  }\n\nmagic8(\"what up\")\n \n\n",
+    "created" : 1501468065169.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3317282271",
+    "id" : "892DC2DD",
+    "lastKnownWriteTime" : 1501474812,
+    "last_content_update" : 1501474812790,
+    "path" : "~/GitHub/99bottles/magic8/magic8.R",
+    "project_path" : "magic8.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

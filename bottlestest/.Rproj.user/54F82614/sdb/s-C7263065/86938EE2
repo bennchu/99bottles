@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# The linkedin vector has already been defined for you\nlinkedin <- c(16, 9, 13, 5, 2, 17, 14)\n\n# Extend the for loop\nfor (li in linkedin) {\n  if (li > 10) {\n    print(\"You're popular!\")\n  } else {\n    print(\"Be more visible!\")\n  }\n  \n  # Add if statement with break\n  if (li > 16){\n    print (\"This is rediculous, I'm outta here!\")\n    break\n  }\n  \n  # Add if statement with next\n  if (li <5){\n    (\"This is too embarassing!\")\n    next\n  }\n  \n  print(li)\n}",
+    "created" : 1501024660792.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "1900533707",
+    "id" : "86938EE2",
+    "lastKnownWriteTime" : 3833180308419998817,
+    "last_content_update" : 1501025101678,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

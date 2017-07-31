@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "pyth_theor = function(x = 0,y = 0,z = 0){\n if (x^2 + y^2 == z^2){\n   print(\"Yes\")\n } else{\n   print(\"Nope\")\n }\n}\n\npyth_theor(3,4,5)\n",
+    "created" : 1501475705842.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "748466386",
+    "id" : "6612B9DB",
+    "lastKnownWriteTime" : 1501476255,
+    "last_content_update" : 1501476255529,
+    "path" : "~/GitHub/99bottles/Pythagorean theorem/pyththeory.R",
+    "project_path" : "pyththeory.R",
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
