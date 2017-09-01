@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "coin_estimate = function(w,x){\n  dime = round(w/2.258)\n  dwrap = dime/50\n\n  cent = round(x/2.5)\n  pwrap = cent/50\n  \n  \n  \n  money = dwrap+pwrap\n  print(paste(\"you have\", money, \"dollars sup girl\"))\n}\n\ncoin_estimate(6000,10000)\n",
+    "created" : 1501476699495.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "2086288825",
+    "id" : "B5B2FF99",
+    "lastKnownWriteTime" : 3419473789575321445,
+    "last_content_update" : 1501479934075,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "x = c(1,2,3,4,5)\ny = c(6,7,8,9,10)\ntest = data.frame(x,y)\n\nlibrary(purrr)\n\nmap(test, median)\n",
+    "created" : 1501479094730.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "3358248654",
+    "id" : "ABBA397B",
+    "lastKnownWriteTime" : 5292976843906638626,
+    "last_content_update" : 1501480112390,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
